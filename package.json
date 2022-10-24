@@ -1,10 +1,10 @@
 {
-  "name": "webgame",
+  "name": "nextjs_boilerplate",
   "author": "VICTOR_STOLEN",
-  "description": "A FOSS RPG GAME",
+  "description": "",
   "version": "0.1.0",
   "private": true,
-  "homepage": "YOUR_GIT_REPO_URL",
+  "homepage": "git remote add origin git@github.com:Victor-Furtado/NEXTJS-BOILERPLATE.git",
   "engines": {
     "node": ">=14.0.0",
     "npm": ">=8.0.0"
