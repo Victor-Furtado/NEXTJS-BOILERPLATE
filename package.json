@@ -1,7 +1,14 @@
 {
   "name": "webgame",
+  "author": "VICTOR_STOLEN",
+  "description": "A FOSS RPG GAME",
   "version": "0.1.0",
   "private": true,
+  "homepage": "YOUR_GIT_REPO_URL",
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=8.0.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
